@@ -1,0 +1,152 @@
+body{
+    background: violet;
+}
+h1{
+    color: black; 
+    text-align: center;
+}
+#showYears{
+    background-color: turquoise;
+}
+#showMonths{
+    background-color: turquoise;
+}
+#showDays{
+    background-color: turquoise;
+}
+#minus{
+    background-color:rgb(17, 98, 219);margin-left:auto;margin-right:auto;
+}
+#add
+{
+    background-color:rgb(17, 98, 219);margin-left:auto;margin-right:auto;
+}
+#getweek{
+    background-color:rgb(17, 98, 219);margin-left:auto;margin-right:auto;
+}
+#gettime{
+    background-color:rgb(17, 98, 219);margin-left:auto;margin-right:auto;
+}
+#subs_n_days{
+    background-color:rgb(17, 98, 219);margin-left:auto;margin-right:auto";
+}
+
+.bbg{
+ background-color:#59596D;
+ 
+
+}
+.main-container{
+ margin-top:0px;
+ 
+ background-color:#59596D;
+}
+.dateofbirth{
+ padding-top:10px;
+ padding-bottom:10px;
+}
+.sub-container{
+ margin:0px auto;
+ width:97%;
+ height:190px;
+ background-color:#D9D9D9;
+ border-radius:2px;
+}
+.inner{
+ 
+ padding-top:25px;
+ text-align:center;
+ margin:12px auto;
+ width:100%;
+ height:200px;
+ 
+}
+#dateStart,#dateEnd{
+ width:200px;
+ height:25px;
+ 
+}
+
+
+#db{
+ padding-left:0px;
+ color:#595967;
+ font-weight:bold;
+ font-family: 'Lato', sans-serif;
+}
+#dob{
+ color:#595967;
+ font-weight:bold;
+ font-family: 'Lato', sans-serif;
+}
+#dateStart{
+ margin-left:27px;
+}
+#dateEnd{
+ margin-left:10px;
+}
+#btn{
+ padding:8px 20px 8px 20px;
+ font-family: 'Lato', sans-serif;
+ font-weight:bold;
+ text-transform:capitalize;
+ margin-top:20px;
+
+ border-style:solid;
+ border-radius:3px;
+ border-color:#59596D;
+ outline:none;
+ border-width:1px;
+}
+.head{
+ padding-top:30px;
+}
+#btn:hover{
+ 
+ background-color:#59596D;
+ border-color:#59596D;
+ color:white;
+}
+.main-heading{
+ font-family: 'Lato', sans-serif;
+ text-align:center;
+ color:#D9D9D9;
+ margin-bottom:20px;
+}
+.second{
+ margin-top:20px;
+}
+.contain{
+ height:200px;
+ border-radius:3px;
+
+ 
+}
+#year{
+ background-color:#034A67;
+ margin-bottom:15px;
+}
+#month{
+ background-color:#9AAEC7;
+ margin-bottom:15px;
+}
+#days{
+ background-color:#228DDB;
+ margin-bottom:15px;
+}
+.heading1{
+ font-family: 'Lato', sans-serif;
+ font-size:65px;
+ font-weight:bold;
+ text-align:center;
+ padding-top:30px;
+    color:white;
+ 
+ 
+}
+.heading2{
+ text-align:center;
+    font-family: 'Lato', sans-serif;
+ font-weight:bold;
+ color:black;
+}
